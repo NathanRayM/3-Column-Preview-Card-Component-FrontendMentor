@@ -1,4 +1,4 @@
-![3-Column Preview Card Component]()
+![3-Column Preview Card Component](https://github.com/NathanRayM/3-Column-Preview-Card-Component-FrontendMentor/blob/main/images/3column%20preview%20SS.png)
 
 <h1 align="center">3-Column Preview Card Component</h1>
 
