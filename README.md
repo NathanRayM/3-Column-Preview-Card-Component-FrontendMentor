@@ -33,4 +33,4 @@ No external resources were used on this challenge.
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/my-solution-for-the-3columnpreviewcardcomponent-challenge-VAxiYpIPgw). It definitely helps to find new ways to code and find easier solutions!
