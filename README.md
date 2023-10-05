@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Live]()
-| [Solution]()
+[Live]( https://nathanraym.github.io/3-Column-Preview-Card-Component-FrontendMentor/)
+| [Solution](https://github.com/NathanRayM/3-Column-Preview-Card-Component-FrontendMentor.git)
 | [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
